@@ -1,3 +1,3 @@
-#Readme
-Hello
-This is a test readme file
+## Readme.md
+
+This is a readme file for learning purpose.
